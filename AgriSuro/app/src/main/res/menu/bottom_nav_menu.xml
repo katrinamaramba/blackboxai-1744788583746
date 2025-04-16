@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_weather"
+        android:icon="@drawable/ic_weather"
+        android:title="Weather" />
+    <item
+        android:id="@+id/nav_variants"
+        android:icon="@drawable/ic_variants"
+        android:title="Variants" />
+    <item
+        android:id="@+id/nav_diseases"
+        android:icon="@drawable/ic_diseases"
+        android:title="Diseases" />
+    <item
+        android:id="@+id/nav_weeds"
+        android:icon="@drawable/ic_weeds"
+        android:title="Weeds" />
+    <item
+        android:id="@+id/nav_pesticides"
+        android:icon="@drawable/ic_pesticides"
+        android:title="Pesticides" />
+    <item
+        android:id="@+id/nav_expense"
+        android:icon="@drawable/ic_expense"
+        android:title="Expense Tracker" />
+</menu>
